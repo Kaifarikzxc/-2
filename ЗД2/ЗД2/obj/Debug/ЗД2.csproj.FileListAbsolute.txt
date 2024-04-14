@@ -1,0 +1,7 @@
+C:\Users\GadMod\source\repos\ЗД2\ЗД2\obj\Debug\ЗД2.csproj.AssemblyReference.cache
+C:\Users\GadMod\source\repos\ЗД2\ЗД2\obj\Debug\ЗД2.csproj.CoreCompileInputs.cache
+C:\Users\GadMod\source\repos\ЗД2\ЗД2\bin\Debug\ЗД2.exe.config
+C:\Users\GadMod\source\repos\ЗД2\ЗД2\bin\Debug\ЗД2.exe
+C:\Users\GadMod\source\repos\ЗД2\ЗД2\bin\Debug\ЗД2.pdb
+C:\Users\GadMod\source\repos\ЗД2\ЗД2\obj\Debug\ЗД2.exe
+C:\Users\GadMod\source\repos\ЗД2\ЗД2\obj\Debug\ЗД2.pdb
